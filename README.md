@@ -1,7 +1,5 @@
 # 👋 Hi, I'm koppi
 
-![Profile Banner](https://github.com/koppi/koppi/raw/main/assets/banner.png) <!-- Replace or remove if you want -->
-
 ## 🧑‍💻 About Me
 
 - **Computer Scientist** since 1982 — passionate about technology, learning, and sharing knowledge.
