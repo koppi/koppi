@@ -31,4 +31,4 @@
 
 ![koppi's GitHub stats](https://github-readme-stats.vercel.app/api?username=koppi&show_icons=true&theme=default)
 
-If you’d like to collaborate or chat about open source, feel free to reach out!
+If you’d like to collaborate or chat about open source, feel free to reach out! إذا كنت ترغب في التعاون أو الدردشة حول البرمجيات مفتوحة المصدر، فلا تتردد في التواصل معنا!
