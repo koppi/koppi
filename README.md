@@ -13,20 +13,14 @@
 - [**LinuxCNC**](https://github.com/LinuxCNC/linuxcnc): Open-source CNC machine controller with real-time motion control.
 - Plus many more—see my repositories for additional projects!
 
-## 🌍 Community & Accomplishments
-
-- Many notable achievements and milestones over the years (ask me about them!).
-- Active contributor to open knowledge and code for decades.
-- Committed to fostering collaboration, learning, and innovation.
-
 ## 🌱 Interests
 
 - Open-Source development
-- Physics simulation & robotics
+- Physics simulation, audio engineering and robotics
 - Collaborative documentation and knowledge sharing
 
 ## 📫 Connect with Me
 
 - Mastodon: [@koppi@chaos.social](https://chaos.social/@koppi)
 
-If you’d like to collaborate or chat about open source, feel free to reach out! إذا كنت ترغب في التعاون أو الدردشة حول البرمجيات مفتوحة المصدر، فلا تتردد في التواصل معنا!
+If you’d like to collaborate or chat about open source, feel free to reach out!
